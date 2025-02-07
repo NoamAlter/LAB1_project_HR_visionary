@@ -11,6 +11,8 @@ such as Prophet for time-series forecasting and XGBoost for predictive modeling,
 actionable insights that help organizations optimize recruitment strategies and make informed,
 evidence-based HR decisions.
 
+privet link to the scrapet data: https://drive.google.com/file/d/1Cp2yRhNgrSb-yc2toZ0lP9YuDf0TaMr_/view?usp=drive_link
+
 
 The main files you should run are: 
 
